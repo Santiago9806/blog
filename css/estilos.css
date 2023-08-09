@@ -1,0 +1,15 @@
+
+body{
+    background-color: black
+}
+.container{
+    text-align: center;
+    color: chartreuse;
+    padding: 1em;
+    border: 1px solid whitesmoke;
+}
+
+p{
+    font-weight: 700;
+    font-size: 18px;
+}
