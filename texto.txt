@@ -1,1 +1,2 @@
-Esto es una preuba para aprender GIT
+Esto es una preuba para aprender GIT y GITHUB
+Nueva linea de codigo, explicando como aprender esto.
