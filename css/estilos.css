@@ -2,15 +2,25 @@
 body{
     background-color: black
 }
+
 .container{
     text-align: center;
     color: chartreuse;
     padding: 1em;
     border: 1px solid whitesmoke;
+    width: 70%;
 }
 
 p{
     font-weight: 700;
     font-size: 18px;
-    font-family: 'Courier New', Courier, monospace;
+}
+
+.cabecera{
+    background-color: chartreuse;
+    font-weight: 700;
+    text-align: justify;
+    color: black;
+    box-shadow: 10px 5px 5px white;
+    padding: 1em
 }
